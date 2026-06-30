@@ -1,0 +1,13 @@
+# Môi trường ảo
+venv/
+.venv/
+
+# File cache Python
+__pycache__/
+*.pyc
+
+# Cơ sở dữ liệu Chroma
+chroma_db/
+
+# File cấu hình chứa API key
+.env
